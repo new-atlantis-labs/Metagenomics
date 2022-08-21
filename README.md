@@ -87,15 +87,27 @@ Congratulations, you can now start using `LPP`.
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 ## 📜 Publications
-```
-Need to get the correct publications and citations from Jay
-```
+### Software and marker gene sequences used to build a plankton specific database for taxonomic profiling derive from the following publications:
+
+[Microbial abundance, activity and population genomic profiling with mOTUs2 (2019)](https://www.nature.com/articles/s41467-019-08844-4)
+[![Nature](https://img.shields.io/badge/Nature-s41467--019--08844--4-green)](https://www.nature.com/articles/s41467-019-08844-4)
+
+
+[read_counter](https://github.com/AlessioMilanese/read_counter)
+A tool to count the number of reads (from a fastq file) that map to a set of nucleotide sequences (in a fasta format).
+[![Github](https://img.shields.io/badge/GitHub-read_counter-green)](https://github.com/AlessioMilanese/read_counter)
+
+
+[A robust approach to estimate relative phytoplankton cell abundances from metagenomes (2022)](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13592)
+[![DOI](https://img.shields.io/badge/DOI-10.1111%2F1755--0998.13592-green)](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13592)
+
+[Toward a global reference database of COI barcodes for marine zooplankton (2021)](https://link.springer.com/article/10.1007/s00227-021-03887-y)
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs00227--021--03887--y-green)](https://link.springer.com/article/10.1007/s00227-021-03887-y)
 
 ## 📝 Please Cite
 ```
-Large Plankton Processor: a metagenomic processor for analyzing plankton content of a water columb.
+A simple Taxonomic Plankton Profiler Tool (unpublished work).
 ```
-
 
 ## 📲 Contact
 Please reach out with any comments, concerns, or discussion regarding `LPP`
