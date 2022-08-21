@@ -9,7 +9,7 @@ Currently known as the `Large Plankton Processor` or `LPP` for short.
 
 [![Discord](https://img.shields.io/badge/Discord-New%20Atlantis-7289da)](https://discord.gg/newatlantis)
 [![Twitter](https://img.shields.io/badge/Twitter-%40NewAtlantisDAO-00acee)](https://twitter.com/NewAtlantisDAO)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/new-atlantis-dao/Oceanomics/blob/main/Metagenomics/notebooks/Custom_DB_MTG/CustomDB_MTG_Taxa_Profiling_v1.0.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/new-atlantis-dao/Metagenomics/blob/8503d74f9769b7201a174f203781e5d6b9f72cb9/notebooks/Custom_DB_MTG/CustomDB_MTG_Taxa_Profiling_v1.0.ipynb)
 
 ![Main Image](https://github.com/new-atlantis-dao/presentations/blob/main/OrcaEye%20PN%20Watermarked.png)
 
@@ -19,7 +19,7 @@ Currently known as the `Large Plankton Processor` or `LPP` for short.
 ## 🪄 Try it Now!
 You can set up and use the `LPP` on the cloud by following along the google colab notebook
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/new-atlantis-dao/Oceanomics/blob/main/Metagenomics/notebooks/Custom_DB_MTG/CustomDB_MTG_Taxa_Profiling_v1.0.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/new-atlantis-dao/Metagenomics/blob/8503d74f9769b7201a174f203781e5d6b9f72cb9/notebooks/Custom_DB_MTG/CustomDB_MTG_Taxa_Profiling_v1.0.ipynb)
 
 Please note that google colab does not provide the computational resources necessary to fully run `LPP` on a real dataset. This notebook demonstrates how to setup and use `LPP` by performing the first steps in the workflow on a toy dataset.
 
