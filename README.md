@@ -35,6 +35,8 @@ Congratulations, you can now start using `LPP`.
 
 ![Tutorial](https://img.shields.io/badge/LPP-Tutorial-%23d8b365)
 
+## 🗺 Data Structure
+![DAG image](https://github.com/new-atlantis-dao/presentations/blob/main/Github%20MTG%20Pipeline%20background.png)
 
 
 ## 🗂 Project Organization
