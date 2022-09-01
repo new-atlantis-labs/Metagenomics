@@ -6,10 +6,11 @@
 
 `New Atlantis` is an open ocean regeneration project that seeks to address biodiversity loss in our oceans by providing a viable business model to Marine Protected Areas (MPAs).  We do this by building an open marine biodiversity analytics platform to monitor and forecast the health of Marine Protected Areas and from which marine biocredits and blue carbon credits can be generated.
 
+
 # 🧬 `Metagenomics`
 
 The metagenomic pipeline section of the new atlantis github. An easy-to-use pipeline for generating metagenomic data on different ocean samples.
-Currently known as the `Living Oceans Metagenome Processor` or `LOMP` for short.
+Currently known as the `Living Oceans Metagenome Assembly Pipeline` or `LOMAP` for short.
 
 > [![Discord](https://img.shields.io/badge/Discord-New%20Atlantis-7289da)](https://discord.gg/newatlantis)
 [![Twitter](https://img.shields.io/badge/Twitter-%40NewAtlantisDAO-00acee)](https://twitter.com/NewAtlantisDAO)
@@ -22,24 +23,24 @@ Currently known as the `Living Oceans Metagenome Processor` or `LOMP` for short.
 
 
 ## 🪄 Try it Now!
-You can set up and use the `LOMP` on the cloud by following along the google colab notebook
+You can set up and use the `LOMAP` on the cloud by following along the google colab notebook
 
 >[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/new-atlantis-dao/Oceanomics/blob/main/Metagenomics/notebooks/Custom_DB_MTG/CustomDB_MTG_Taxa_Profiling_v1.0.ipynb)
 
-Please note that google colab does not provide the computational resources necessary to fully run `LOMP` on a real dataset. This notebook demonstrates how to setup and use `LOMP` by performing the first steps in the workflow on a toy dataset.
+Please note that google colab does not provide the computational resources necessary to fully run `LOMAP` on a real dataset. This notebook demonstrates how to setup and use `LOMAP` by performing the first steps in the workflow on a toy dataset.
 
 
 ## ⚙️ Installation
-You can set up `LOMP` on your computer at home in one line!
+You can set up `LOMAP` on your computer at home in one line!
 ```
 git clone https://github.com/new-atlantis-dao/Oceanomics/tree/main/Metagenomics && cd Metagenomics && rm -r .git
 ```
-Congratulations, you can now start using `LOMP`.
+Congratulations, you can now start using `LOMAP`.
 
 ## 📯 Tutorial
-`LOMP` can be used to explore  a local section of ocean's planktonic network. A written tutorial on how to use the `LOMP` pipeline will be released at a later date.
+`LOMAP` can be used to explore  a local section of ocean's planktonic network. A written tutorial on how to use the `LOMAP` pipeline will be released at a later date.
 
-> ![Tutorial](https://img.shields.io/badge/LOMP-Tutorial-%23d8b365)
+> ![Tutorial](https://img.shields.io/badge/LOMAP-Tutorial-%23d8b365)
 
 
 
@@ -114,7 +115,7 @@ A tool to count the number of reads (from a fastq file) that map to a set of nuc
 A simple Taxonomic Plankton Profiler Tool (unpublished work).
 ```
 ## 📲 Contact
-Please reach out with any comments, concerns, or discussion regarding `LOMP`
+Please reach out with any comments, concerns, or discussion regarding `LOMAP`
 
 > [![Discord](https://img.shields.io/badge/Discord-New%20Atlantis-7289da)](https://discord.gg/newatlantis)
 [![Twitter](https://img.shields.io/badge/Twitter-%40NewAtlantisDAO-00acee)](https://twitter.com/NewAtlantisDAO)
