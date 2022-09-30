@@ -14,7 +14,7 @@ Currently known as the `Living Oceans Metagenome Assembly Pipeline` or `LOMAP` f
 
 > [![Discord](https://img.shields.io/badge/Discord-New%20Atlantis-7289da)](https://discord.gg/newatlantis)
 [![Twitter](https://img.shields.io/badge/Twitter-%40NewAtlantisDAO-00acee)](https://twitter.com/NewAtlantisDAO)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/new-atlantis-dao/Oceanomics/blob/main/Metagenomics/notebooks/Custom_DB_MTG/CustomDB_MTG_Taxa_Profiling_v1.0.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/new-atlantis-dao/Metagenomics/blob/main/notebooks/Run_MTG_taxa_profiler.ipynb)
 
 ![Main Image](https://github.com/new-atlantis-dao/presentations/blob/main/Orcas%20Norway-220116-00461.jpg)
 >Photo used with permission by Paul Nicklen, co-founder of SeaLegacy.org, New Atlantis Founding Advisor, NatGeo Contributor, [Instagram](https://www.instagram.com/paulnicklen/) 
