@@ -25,7 +25,7 @@ Currently known as the `Living Oceans Metagenome Assembly Pipeline` or `LOMAP` f
 ## 🪄 Try it Now!
 You can set up and use the `LOMAP` on the cloud by following along the google colab notebook
 
->[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/new-atlantis-dao/Oceanomics/blob/main/Metagenomics/notebooks/Custom_DB_MTG/CustomDB_MTG_Taxa_Profiling_v1.0.ipynb)
+>[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/new-atlantis-dao/Metagenomics/blob/main/notebooks/Run_MTG_taxa_profiler.ipynb)
 
 Please note that google colab does not provide the computational resources necessary to fully run `LOMAP` on a real dataset. This notebook demonstrates how to setup and use `LOMAP` by performing the first steps in the workflow on a toy dataset.
 
